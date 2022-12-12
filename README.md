@@ -1,4 +1,4 @@
-# MohithSuresh
+# Mohith Suresh
 - :earth_africa: I am currently pursuing B.Tech at IIT Kharagpur.
 - :zap: I love Blockchain, Athletics and Books
 - 🌱 I’m addicted to learning and growing every day
