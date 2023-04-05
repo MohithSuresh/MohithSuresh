@@ -1,5 +1,5 @@
 ### Greetings!
-I'm Mohith, a third year undergraduate student in IIT Kharagpur, India. I'm based out of Bangalore. Apart from being a passionate Blockchain Developer I'm also do Investment Analysis at VC firms. Being Entrepreneurial, I'm always on lookout for ideas that strongly impact the world.
+I'm Mohith, a third year undergraduate student in IIT Kharagpur, India. I'm based out of Bangalore. Apart from being a passionate Blockchain Developer I also do Investment Analysis at VC firms. Being Entrepreneurial, I'm always on lookout for ideas that strongly impact the world.
 
 #### Currently:
 I am a Full-Stack Blockchain Developer (with experience mainly in EVM chains), open to both remote or onsite jobs. You can contact me at mohithsuresh77@gmail.com.
